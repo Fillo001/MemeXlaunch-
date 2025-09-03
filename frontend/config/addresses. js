@@ -1,0 +1,5 @@
+module.exports = {
+  FACTORY: "0xFactory1234567890abcdef1234567890abcdef1234",
+  MOCK_OKB: "0xMockOKB1234567890abcdef1234567890abcdef1234",
+  ROUTER: "0xMockRouter9876543210abcdef9876543210abcdef9876"
+};
