@@ -1,0 +1,13 @@
+{
+  "name": "memexlaunch",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network testnet"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.20.0"
+  }
+}
